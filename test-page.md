@@ -1,6 +1,6 @@
 ---
 title: Test page
-layout: page
+layout: New_blog
 ---
 
 # This is heading 1
