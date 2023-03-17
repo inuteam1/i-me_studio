@@ -1,5 +1,5 @@
 ---
-title: Test page
+title: BLOG
 layout: New_blog
 ---
 
